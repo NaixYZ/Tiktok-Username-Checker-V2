@@ -1,14 +1,14 @@
 # Tiktok-Username-Checker 2
 
-## Username Generator and Checker!
+# Username Checker/Generator V2
 
-## Proxied/Proxyless Use (socks4/https/socks5 Accepted)
+# Proxied/Proxyless Use socks4/https/socks5
 
-Make sure you have Node.js
+Make sure you have Node.js 
 Run install.bat 
 Run the file run.bat
 
-## Program Working 
+## Program Working right now
 
-![HD2mFZ9pK4]()
+https://giphy.com/gifs/8CTEteIHjzMfYY2RlK
 
